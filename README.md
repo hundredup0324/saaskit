@@ -20,3 +20,5 @@ You can contribute in a number of ways. If you have questions or would like to d
 #### Support
 
 This project is open source and I do my best to support it in my spare time. If you'd like to discuss commercial support options or need help implementing multi-tenancy or building SAAS applications in .NET then [get in touch](mailto:info@saaskit.net). If you want to check my credentials - check out [my blog](http://benfoster.io) or [Fabrik](https://fabrik.io), the SAAS startup I built on the .NET stack.
+ 
+ 
